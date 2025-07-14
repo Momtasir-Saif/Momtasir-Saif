@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
--  I’m currently learning **Data Structure**
+-  I’m currently learning **Web Tech**
 
 -  How to reach me **momtasirsaif@gmail.com**
 -  How to reach me **https://www.facebook.com/momtasir.saif/**
